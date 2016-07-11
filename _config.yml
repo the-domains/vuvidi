@@ -1,0 +1,14 @@
+layout_spectrum: 0.9765152784530073
+typography_spectrum: 0.3382871763315052
+color:
+  brandStrength: 0.3145176530815661
+  lightness: 0.7833743034861982
+  saturation: 0.2651432987768203
+  rhythmicContrast: 0.6305574749130756
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: VuVidi
